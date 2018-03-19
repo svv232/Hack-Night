@@ -4,7 +4,7 @@
 -Image Courtesy of Trail of Bits
 
 <h2>Presentation</h2><br />
-> [Slides](https://docs.google.com/presentation/d/1GKjuNiP3Z4OTpE2YlZ7oI7uAjMuuNqYteNiIlqrUWsM/edit?usp=sharing/)
+[Slides]: "https://docs.google.com/presentation/d/1GKjuNiP3Z4OTpE2YlZ7oI7uAjMuuNqYteNiIlqrUWsM/edit?usp=sharing"
 
 <h2>Questions Manticore Can Be Applied Towards</h2><br />
 
@@ -16,7 +16,7 @@
 > How many instructions does the program execute if given this input?<br />
 
 <h2>Additional Resources/Work Cited</h2>
-> [Examples of Manticore Uses](https://github.com/trailofbits/manticore-examples/)<br />
-> [Trail of Bits Presentation](https://www.youtube.com/watch?v=8nuKOWGGtMc/)<br />
-> [Blog Post] (https://blog.trailofbits.com/2017/04/27/manticore-symbolic-execution-for-humans/)<br />
-> [Interesting Write-Up](https://gist.github.com/ehennenfent/a5ad9746615d1490c618a88b98769c10/)<br />
+[Examples of Manticore Uses](https://github.com/trailofbits/manticore-examples/)<br />
+[Trail of Bits Presentation](https://www.youtube.com/watch?v=8nuKOWGGtMc/)<br />
+[Blog Post] (https://blog.trailofbits.com/2017/04/27/manticore-symbolic-execution-for-humans/)<br />
+[Interesting Write-Up](https://gist.github.com/ehennenfent/a5ad9746615d1490c618a88b98769c10/)<br />
