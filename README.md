@@ -1,7 +1,7 @@
 <h1>Symbolic Execution Via Manticore</h1>
 
 ![](https://www.trailofbits.com/assets/img/research-manticore.jpg?raw=true)<br />
--Image Courtesy of Trail of Bits
+-Image Credit: Trail of Bits
 
 <h2>Presentation</h2><br />
 <a href = "https://docs.google.com/presentation/d/1GKjuNiP3Z4OTpE2YlZ7oI7uAjMuuNqYteNiIlqrUWsM/edit?usp=sharing">Slides </a>
