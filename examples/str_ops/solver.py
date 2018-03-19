@@ -25,5 +25,4 @@ def hook(state):
 def hook(state):
     state.abandon()
 
-m.verbosity = 0
 m.run()
