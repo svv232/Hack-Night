@@ -6,7 +6,6 @@ m = Manticore("process_name", argv)
 #function addresses
 
 main = address_of_main
-function_checking_input = address_of_function_checking_input
 
 #global variables
 
