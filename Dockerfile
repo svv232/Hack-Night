@@ -5,6 +5,7 @@ RUN apt-get update && apt-get install -y \
     apt-utils \
     build-essential \
     vim \
+    git \
     python-pip 
 
 RUN git clone https://github.com/trailofbits/manticore.git && \
