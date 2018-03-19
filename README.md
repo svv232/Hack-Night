@@ -8,12 +8,12 @@
 
 <h2>Questions Manticore Can Be Applied Towards</h2><br />
 
-> At point X in execution, is it possible for variable Y to be a specified value?<br />
-> Can the program reach this code at runtime?<br />
-> What is a program input that will cause execution of this code?<br />
-> Is user input ever used as a parameter to this libc function?<br />
-> How many times does the program execute this function?<br />
-> How many instructions does the program execute if given this input?<br />
+At point X in execution, is it possible for variable Y to be a specified value?<br />
+Can the program reach this code at runtime?<br />
+What is a program input that will cause execution of this code?<br />
+Is user input ever used as a parameter to this libc function?<br />
+How many times does the program execute this function?<br />
+How many instructions does the program execute if given this input?<br />
 
 <h2>Additional Resources/Work Cited</h2>
 <a href="https://github.com/trailofbits/manticore-examples">Manticore Examples </a> <br />
