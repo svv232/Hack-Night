@@ -14,7 +14,5 @@ RUN git clone https://github.com/trailofbits/manticore.git && \
     python -m pip install pwntools
 
 ADD examples /home/examples/
-
 WORKDIR /home/
-
 CMD /bin/bash
